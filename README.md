@@ -51,3 +51,15 @@ The dataset appears to be synthetically or randomly generated (via `numpy.random
    ```bash
    git clone https://github.com/YourUsername/your-repo-name.git
    cd your-repo-name
+
+   
+---
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+
+ ---
+ 3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+

@@ -60,6 +60,21 @@ The dataset appears to be synthetically or randomly generated (via `numpy.random
 
  ---
  3. Launch Jupyter Notebook:
-   ```bash
+   ```bash 
    jupyter notebook
+   ```
+---
 
+## 📈 Output Sample
+The notebook outputs:
+
+- Model summary
+
+- Training loss and MAE
+
+- Visual plot of predictions vs actual values
+
+---
+
+## 📬 Feedback
+Feel free to fork this repo or open an issue for suggestions or improvements!
